@@ -18,9 +18,9 @@
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ⚙️  **Back-end e banco de dados:**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-gray?style=for-the-badge&logo=nodedotjs&logoColor=green)
+![MongoDB](https://img.shields.io/badge/MongoDB-gray?style=for-the-badge&logo=mongodb&logoColor=green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=postgresql&logoColor=blue)
 ![Firebase](https://img.shields.io/badge/Firebase-gray?style=for-the-badge&logo=firebase) 
 ![AWS](https://img.shields.io/badge/AWS-gray?style=for-the-badge&logo=amazon-aws)
 
