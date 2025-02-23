@@ -13,10 +13,10 @@
 HTML CSS JavaScript TypeScript React React Native
 
 ⚙️  **Back-end e banco de dados:**
-https://img.shields.io/npm/v/npm.svg?logo=nodedotjs Node.js MySQL MongoDB PostgreSQL Firebase AWS
+<img src='https://img.shields.io/npm/v/npm.svg?logo=nodedotjs' /> Node.js MySQL MongoDB PostgreSQL Firebase AWS
 
 ## **Github Stats**
-[![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YFD3v)](https://github.com/YFD3v/github-readme-stats&show_icons=true&theme=radical)
+[![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YFD3v)](https://github.com/YFD3v/github-readme-stats&show_icons=true&theme=cobalt)
 <!--
 **YFD3v/YFD3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
