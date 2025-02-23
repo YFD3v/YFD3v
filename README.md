@@ -27,7 +27,7 @@
 
 
 ## 🚀 **Github Stats**
-[![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YFD3v&show_icons=true&theme=highcontrast)](https://github.com/YFD3v/github-readme-stats)
+[![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YFD3v&show_icons=true&theme=dark)](https://github.com/YFD3v/github-readme-stats)
 <!--
 **YFD3v/YFD3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
