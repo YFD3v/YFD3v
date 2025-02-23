@@ -13,7 +13,7 @@
 HTML CSS JavaScript TypeScript React React Native
 
 ⚙️  **Back-end e banco de dados:**
-Node.js MySQL MongoDB PostgreSQL Firebase ![AWS](https://img.shields.io/badge/AWS-gray?style=for-the-badge&logo=amazon-aws)
+Node.js MySQL MongoDB PostgreSQL ![Firebase](https://img.shields.io/badge/Firebase-gray?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-gray?style=for-the-badge&logo=amazon-aws)
 
 ## **Github Stats**
 [![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YFD3v)](https://github.com/YFD3v/github-readme-stats&show_icons=true&theme=cobalt)
