@@ -7,7 +7,7 @@
 - 🏐 Sou apaixonado por voleibol. Jogo como levantador. Já joguei pelo IFBA - Campus Salvador, em 2024, o JIFBA 2024 e conquistei junto com minha equipe o terceiro lugar do campeonato. É o que mais gosto de fazer para descontrair hehe.
 - 🎮 Além do volei, também gosto muito de jogar videogames principalmente no PC.
 
-#🛠  Tech Stack
+# 🛠  Tech Stack
 
 💻  Front-end:
 HTML CSS JavaScript TypeScript React React Native
@@ -16,7 +16,7 @@ HTML CSS JavaScript TypeScript React React Native
 Node.js MySQL MongoDB PostgreSQL Firebase AWS
 
 # Github Stats
-(https://github-readme-stats.vercel.app/api?username=YFD3v)](https://github.com/YFD3v/github-readme-stats)
+[![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YFD3v)](https://github.com/YFD3v/github-readme-stats)
 <!--
 **YFD3v/YFD3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
