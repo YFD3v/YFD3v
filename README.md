@@ -2,7 +2,7 @@
 
 ## 👑 **About me**
 
-- 📜 Desde pequeno sempre tive fui apaixonado por tecnologia e em aprender como as coisas funcionam. Com o passar do tempo, achei que poderia aprofundar essa paixão com a Mecânica e me formei como Técnico em Mecânica em 2025. Porém, em 2022, enquanto estuvada no curso técnico, conhecei a programação, com meus 15 anos. Comecei estudando Front-end: HTML5, CSS, JS, Jquery e um pouco de PHP para o back-end. Conforme eu avancei nos estudos de programação, entendi que minha verdadeira vontade era seguir com programação, aprofundando meu interesse por tecnologia e como as coisas funcionam, ao invés da Mecânica. Assim, me dediquei mais à essa área e hoje sou um Desenvolvedor Web.
+- 📜 Desde pequeno sempre tive fui apaixonado por tecnologia e em aprender como as coisas funcionam. Com o passar do tempo, achei que poderia aprofundar essa paixão com a Mecânica e me formei como Técnico em Mecânica em 2025. Porém, em 2022, enquanto estuvada no curso técnico, conhecei a programação, com meus 15 anos. Comecei estudando Front-end: HTML5, CSS, JS, Jquery e um pouco de PHP para o back-end. Conforme eu avancei nos estudos de programação, entendi que minha verdadeira vontade era seguir com programação, aprofundando meu interesse por tecnologia e como as coisas funcionam, ao invés da Mecânica. Assim, me dediquei mais à essa área e me tornei um Desenvolvedor.
 - 🧑‍💻 Atualmente programo focado para o desenvolvimento web utilizando o stack Javascript (Node, React, NextJs) para desenvolver em ambas as frentes.
 - 🏐 Sou apaixonado por voleibol. Jogo como levantador. Já joguei pelo IFBA - Campus Salvador, em 2024, o JIFBA 2024 e conquistei junto com minha equipe o terceiro lugar do campeonato. É o que mais gosto de fazer para descontrair hehe.
 - 🎮 Além do volei, também gosto muito de jogar videogames principalmente no PC.
@@ -13,7 +13,7 @@
 HTML CSS JavaScript TypeScript React React Native
 
 ⚙️  **Back-end e banco de dados:**
-<img src='https://img.shields.io/npm/v/npm.svg?logo=nodedotjs' /> Node.js MySQL MongoDB PostgreSQL Firebase AWS
+Node.js MySQL MongoDB PostgreSQL Firebase ![AWS](https://img.shields.io/badge/AWS-gray?style=for-the-badge&logo=amazon-aws)
 
 ## **Github Stats**
 [![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YFD3v)](https://github.com/YFD3v/github-readme-stats&show_icons=true&theme=cobalt)
